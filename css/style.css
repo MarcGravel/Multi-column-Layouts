@@ -2,7 +2,7 @@ html {
     background-color: #ffc90e;
     border-style: solid;
     border-color: black;
-    border-width: 3px;
+    border-width: 4px;
 }
 
 .box {
@@ -12,7 +12,7 @@ html {
     margin-bottom: 1.4vh;
     border-style: solid;
     border-color: black;
-    border-width: 3px;
+    border-width: 4px;
     margin-left: 3vw;
 }
 
@@ -34,4 +34,18 @@ html {
 #purplebox {
     display: inline-block;
     background-color: #a349a4;
+}
+
+h3 {
+    position: absolute;
+    top: 5%;
+    margin-left: 10pt;
+    font-size: 4em;
+}
+
+p {
+    position: absolute;
+    top: 20%;
+    margin-left: 25pt;
+    font-size: 2.5rem;
 }
